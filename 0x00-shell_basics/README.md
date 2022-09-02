@@ -1,15 +1,15 @@
-A script that prints the absolute path name of the current working directory.
+- 0. A script that prints the absolute path name of the current working directory.
 
-Display the contents list in the current directory.
+- 1. Display the contents list in the current directory.
 
-Changes the working directory to the user’s home directory.
+- 2. Changes the working directory to the user’s home directory.
 
-Displaying the  current directory contents in a long format.
+- 3. Displaying the  current directory contents in a long format.
 
-Displaying the current directory contents, including hidden files in long format.
+- 4. Displaying the current directory contents, including hidden files in long format.
 
-Displaying the current directory contents in long format  with user and group IDs displayed numerically with hidden files.
+- 5. Displaying the current directory contents in long format  with user and group IDs displayed numerically with hidden files.
 
-A script that create directory in tmp folder.
+- 6. A script that create directory in tmp folder.
 
-A script that move files from one directory to the other.
+- 7. A script that move files from one directory to the other.
