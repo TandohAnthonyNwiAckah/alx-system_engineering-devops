@@ -13,3 +13,5 @@
 -  A script that create directory in tmp folder.
 
 -  A script that move files from one directory to the other.
+
+- A script to delete file called betty.
