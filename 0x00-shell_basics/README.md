@@ -11,3 +11,5 @@ Displaying the current directory contents, including hidden files in long format
 Displaying the current directory contents in long format  with user and group IDs displayed numerically with hidden files.
 
 A script that create directory in tmp folder.
+
+A script that move files from one directory to the other.
