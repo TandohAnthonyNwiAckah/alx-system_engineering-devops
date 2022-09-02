@@ -14,6 +14,9 @@
 
 -  A script that move files from one directory to the other.
 
-- A script to delete file called betty.
+-  A script to delete file called betty.
 
-- A script to delete directory
+-  A script to delete directory.
+
+-  A script that changes the working directory to the previous one.
+
